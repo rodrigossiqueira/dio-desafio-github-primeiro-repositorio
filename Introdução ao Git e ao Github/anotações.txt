@@ -1,1 +1,24 @@
-site de noticias: www.globo.com
+# Repositório do Desafio de Projeto sobre Git/Github da DIO
+
+Repositório criado para o Desafio de projeto.
+
+## Passo a passo para versionar um Git no Github do zero
+
+- Primeiro passo
+-- Criar uma pasta
+- Segundo passo
+-- Git init para iniciar um versionamento
+- Terceiro passo
+-- Criar um arquivo informando o tipo
+- Quarto passo
+-- Modificar o arquivo
+- QUinto passo
+-- Git add para adicionar ou informar a criação ao git. Antes você pode verificar o status com o Git status
+- Sexto passo
+--Git commit para submeter o arquivo ao git. Antes você pode verificar o status com o Git status
+- Git push origin master "empurra" o arquivo para o servidor
+-- 
+## Links úteis
+
+[Sintaxe Básica Markdown](https://www.markdownguide.org/getting-started/)
+
