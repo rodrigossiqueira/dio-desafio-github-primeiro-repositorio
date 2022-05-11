@@ -1,5 +1,4 @@
-# Repositório do Desafio de Projeto sobre Git/Github da DIO
-
+# Repositório do Desafio de Projeto sobre Git/Github da DIO 🚀
 Repositório criado para o Desafio de projeto.
 
 ## Passo a passo para versionar um Git no Github do zero
